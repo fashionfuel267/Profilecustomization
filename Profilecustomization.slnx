@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Profilecustomization/Profilecustomization.csproj" />
+  <Project Path="Profilecustomization_Ex/Profilecustomization_Ex.csproj" />
+</Solution>
